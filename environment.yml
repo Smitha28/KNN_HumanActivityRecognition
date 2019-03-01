@@ -6,7 +6,4 @@ dependencies:
   - matplotlib
   - pandas
   - seaborn
-  - KNeighborsClassifier
-  - classification_report
-  - Counter
-  
+
