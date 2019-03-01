@@ -1,8 +1,8 @@
 This project has 3 parts:
 
-1: Familiarize yourself with the problem and data
-2: Code a KNN Classifier from scratch, evaluate performance, and compare to Scikit-Learn's implementation
-3: Interpret results and explain findings.
+#1: Familiarize yourself with the problem and data
+#2: Code a KNN Classifier from scratch, evaluate performance, and compare to Scikit-Learn's implementation
+#3: Interpret results and explain findings.
 
 This will include:
   -Answering simple questions regarding the data
