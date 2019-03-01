@@ -1,3 +1,5 @@
+Click on this link to access a dynamic version of my Jupyter notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Smitha28/KNN_HumanActivityRecognition/master)
+
 This project has 3 parts:
 
 1. Familiarize yourself with the problem and data
